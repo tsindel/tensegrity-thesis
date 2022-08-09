@@ -1,0 +1,1 @@
+run "gram_plot" to plot the Gramian energy ellipsoids
